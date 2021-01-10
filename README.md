@@ -6,13 +6,13 @@
 - short declartion with different data types and print it.
 
 ### HandsOn Exercises 2
-- 
+- ZERO VALUES.
 
 ### HandsOn Exercises 3
--
+- fmt.Sprintf with format specifiers
 
 ### HandsOn Exercises 4
--
+- new data type declaration underlying int and usage.
 
 ### HandsOn Exercises 5
 -
