@@ -1,4 +1,6 @@
-## golang
+# golang
+
+## Ninga Level 1
 
 ### HandsOn Exercises 1
 - short declartion with different data types and print it.
@@ -17,3 +19,4 @@
 
 ### HandsOn Exercises 6
 -
+
