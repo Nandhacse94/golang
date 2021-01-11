@@ -56,8 +56,42 @@
 ### HandsOn Exercises 10
 - conditions over println functions and check what it prints.
 
-## Ninga Level 4
+## Ninja Level 4
 
+### HandsOn Exercises 1
+- create an Array which hold 5 values with type of INT
+- print values using range with for 
+- print type of array
+
+### HandsOn Exercises 2
+- create an SLICE which hold 5 values with type of INT
+- print values using range with for 
+- print type of slice
+
+### HandsOn Exercises 3
+- create a SLICE and retrieve part of values using index
+
+### HandsOn Exercises 4
+- create a SLICE and append values and append other slices.
+
+### HandsOn Exercises 5
+- create a SLICE and create new slice using append with some range of values.
+
+### HandsOn Exercises 6
+- create a string SLICE using MAKE and print without range
+
+### HandsOn Exercises 7
+- 2 slice, 2D slice and print each values using range
+
+### HandsOn Exercises 8
+- create a MAP with type STRING (last_name) and 3values STRING  ( 3 fav_thing)
+- print each 
+
+### HandsOn Exercises 9
+- add additional record to the map and check prints.
+
+### HandsOn Exercises 10
+- delete a record from map using delete and check record exists using "ok"
 
 ## Ninga Level 5
 
