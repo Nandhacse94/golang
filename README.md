@@ -95,6 +95,18 @@
 
 ## Ninga Level 5
 
+### HandsOn Exercises 1
+- declare a STRUCT with field TYPE of STRING SLICE. print using RANGE. 
+
+### HandsOn Exercises 2
+- use above program and create a map with struct KEY(struct fields) and VALUE (struct) 
+
+### HandsOn Exercises 3
+- create a struct with field as another struct and define and use it.
+
+### HandsOn Exercises 4
+- ANONYMOUS STRUCT. declare and define in the same place, it can be used anywhere else.
+
 
 ## Ninga Level 6
 
