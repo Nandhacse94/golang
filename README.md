@@ -6,13 +6,13 @@
 - short declartion with different data types and print it.
 
 ### HandsOn Exercises 2
-- 
+- ZERO VALUES.
 
 ### HandsOn Exercises 3
--
+- fmt.Sprintf with format specifiers
 
 ### HandsOn Exercises 4
--
+- new data type declaration underlying int and usage.
 
 ### HandsOn Exercises 5
 -
@@ -26,6 +26,35 @@
 
 ## Ninga Level 3
 
+### HandsOn Exercises 1
+- print 1 to 10,000
+
+### HandsOn Exercises 2
+- print Alphabets as Rune each 3 times
+
+### HandsOn Exercises 3
+- print the years you have been alive using for loop.
+
+### HandsOn Exercises 4
+- print the years you have been alive using for loop without any condition.
+
+### HandsOn Exercises 5
+- print remainder from the number between 10 and 10000 when its divided by 4.
+
+### HandsOn Exercises 6
+- program with if-statemnt in action.
+
+### HandsOn Exercises 7
+- program with if-statemnt with else if and else.
+
+### HandsOn Exercises 8
+- program with now switch expression specified.
+
+### HandsOn Exercises 9
+- switch statement with switch expression sepcified as TYPE string and IDENTIFIER favSport.
+
+### HandsOn Exercises 10
+- conditions over println functions and check what it prints.
 
 ## Ninga Level 4
 
