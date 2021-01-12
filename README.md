@@ -110,6 +110,50 @@
 
 ## Ninga Level 6
 
+### HandsOn Exercises 1
+- functions with returning single and multiple values.
+
+### HandsOn Exercises  2
+- variadic argument type of int and pass as argument
+- one func with furl and one func with slice 
+- pass argument and receive thru parameter (diff for unfurl)
+
+### HandsOn Exercises  3
+- use defer func and show that deferred func runs after the containing func exits.
+
+### HandsOn Exercises  4
+- create a struct with identifier person - fields(first,last,age)
+- create a func with a receiver of the person struct.
+- create a value and call the method
+
+### HandsOn Exercises  5
+- create two structs - circle, square
+- create a interface declaring the area func.
+- define func area with two different receivers (circle & square)
+- create a func with interface type parameter and call the area func
+
+### HandsOn Exercises  6
+- Build and use anonymous func
+
+### HandsOn Exercises  7
+- Assign a func to a variable and call that func
+
+### HandsOn Exercises  8
+- create a func which returns func
+- call the func and store the returned func and call it.
+
+### HandsOn Exercises  9
+- create a func and store into one variable
+- pass a func as argument
+- call the func with value
+
+### HandsOn Exercises  10
+- create and return func that encloses the scope of the variable.
+- the variable will have initial value whenever the func is returned each time
+
+### HandsOn Exercises  11
+- choose topic and capture video and upload on youtube
+- non tehnical
 
 ## Ninga Level 7
 
