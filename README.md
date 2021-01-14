@@ -168,6 +168,20 @@
 
 ## Ninga Level 8
 
+#### HandsOn Exercises  1
+- define a struct and create 3 values and convert to json(Marshal) and print
+
+#### HandsOn Exercises  2
+- Unmarshal the json to struct
+
+#### HandsOn Exercises  3
+- print the json without print function. clue: use Encoder interface
+
+#### HandsOn Exercises  4
+- sort ints and strings
+
+#### HandsOn Exercises  5
+- Sort using user defined structs automatically
 
 ## Ninga Level 9
 
