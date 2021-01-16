@@ -185,6 +185,27 @@
 
 ## Ninga Level 9
 
+#### HandsOn Exercises  1
+- In addition to main goroutine, call two more goroutine
+- use waitgroups to make sure each goroutine finished before your program exits
+
+#### HandsOn Exercises  2
+- method sets and pass a pointer to the method to get it worked
+
+#### HandsOn Exercises  3
+- trigger bunch of goroutines and see race condition using 'go run race handson3.go'
+
+#### HandsOn Exercises  4
+- fix the race condition using mutex
+
+#### HandsOn Exercises  5
+- fix the race condition using Atomic
+
+#### HandsOn Exercises  6
+- print OS and ARCH
+
+#### HandsOn Exercises  7
+- create a video for all concepts understood till now. 
 
 ## Ninga Level 10
 
