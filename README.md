@@ -209,9 +209,45 @@
 
 ## Ninga Level 10
 
+#### HandsOn Exercises  1
+- create a working buffered channel
+
+#### HandsOn Exercises  2
+- code debug and using only one send channel wont send & receive.
+
+#### HandsOn Exercises  3
+- create func to send the values through channels and return the receive only channel.
+- print the values from receive channel.
+
+#### HandsOn Exercises  4
+- use select to receive channel
+
+#### HandsOn Exercises  5
+- ok idiom
+
+#### HandsOn Exercises  6
+- puts 100 number on a channel and prints them off of a channel
+
+#### HandsOn Exercises  7
+- puts 100 number on a channel and prints them off of a channel
+
 
 ## Ninga Level 11
 
+#### HandsOn Exercises  1
+- Instead of using blank identifier, make sure code is checking and handling error.
+
+#### HandsOn Exercises  2
+- Create a custom error message and return if any error occurs.
+
+#### HandsOn Exercises  3
+- Create a custom error struct and pass as Error interface receiver and pass the custom error value to new method.
+
+#### HandsOn Exercises  4
+- Addition to above task, the func should return multiple errors and error should prints
+
+#### HandsOn Exercises  5
+- testing benchmark - no programs
 
 ## Ninga Level 12
 
