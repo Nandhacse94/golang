@@ -1,0 +1,71 @@
+Why Go?
+- It is simple, fast, concurrent and built for CN apps.
+- Has a efficient GC for memory management.
+- Also go has goroutines and channels, making concurrency easier.
+- Go is heavily used for k8s, operators, prometheus etc..
+
+Code Structure
+package main // defines executable application
+
+import "fmt" 
+func main(){
+   fmt.Println("Hi") // exported identifiers start with uppercase. Println
+}
+var age int = 30 // var declares variable
+var name = "Dhiraj"
+// = is std assignment operator
+// := is type inference. go detects right and assigns value to left. 
+   // But can only be used in functions but not in package level.
+const pi = 3.14 // constant can be strings, int, boolean etc..
+var count int
+count = 10
+// supports datatypes int8-64, uint8-64, float32-64, bool, string, byte, rune(it is int32 represents unicode point)
+var x int = 10
+var y float = float64(x)
+a := 10 
+b = 5.5
+result := float64(a) + b
+
+if x>10 { fmt.Println("Large") }
+
+switch x {
+  case 1:
+     fmt.Println("one")
+  default:
+     fmt.Println("other")
+}
+
+There is no while loop in Go
+
+for i:=0 ; i<5 ; i++ {
+  fmt.Println(i)
+}
+
+continue, break and defer in loops
+
+"defer" schedules a function call when surrounding function ends.
+func abc(){
+  defer file.close() //Ensures file closes when function abc is done.
+}
+
+Generally used for unlocking mutex, close files, cleaning resources.
+
+-> Functions and multiple return types.
+func someFunction(a,b int) (int, error) {
+  // statement
+}
+result, err := someFunction(3,4)
+if err != nil {
+   // logs the error
+}
+NOTE: Multiple returns are used for result + error handling .
+
+Named return values
+func calculate(a,b int) (sum int, product int) {
+  //Here sum and product behave like local variables
+  sum = a+b
+  product = a*b  
+  return //automatically returns current values
+}
+
+
